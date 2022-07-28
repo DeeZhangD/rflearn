@@ -3,7 +3,7 @@
  
 ### n_ Estimators (number of trees)
 * It represents the number of trees established.
-* Generally speaking, the more trees there are, the better the performance and the more stable the prediction will be, but this will also slow down the calculation speed.
+* Generally speaking, the more trees there are, the better performance and the more stable the prediction will be, but this will also slow down the calculation speed.
 * Generally speaking, it is a better choice to choose hundreds of trees in practice. Therefore, the general default is 100.
 
 ### n_ Jobs (number of processors allowed by the engine)
